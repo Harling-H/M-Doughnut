@@ -1,0 +1,20 @@
+body{
+  display: block;
+  padding: 10px;
+}
+h1{
+  margin: 10px;
+  text-align: center;
+  color: teal;
+}
+h3{
+  margin: 10px;
+  text-align: center;
+  color: teal;
+}
+.cupcake{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
